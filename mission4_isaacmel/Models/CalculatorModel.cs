@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace mission4_isaacmel.Models
 {
+    //model for the calculator form
     public class CalculatorModel
     {
         [Required]
