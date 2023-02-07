@@ -59,5 +59,6 @@
 
     //output final grade
     $("#output").val(grade);
+    alert(grade);
 
 };
